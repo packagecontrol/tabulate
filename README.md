@@ -1,5 +1,5 @@
 # tabulate for Package Control
-[![Build Status](https://travis-ci.org/csch0/tabulate.svg)](https://travis-ci.org/csch0/tabulate)
+[![Build Status](https://travis-ci.org/packagecontrol/tabulate.svg)](https://travis-ci.org/packagecontrol/tabulate)
 
 
 This is the *[tabulate][]* module
@@ -10,7 +10,7 @@ for the [Sublime Text][] text editor.
 
 this repo | pypi
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/csch0/tabulate.svg) | [![pypi](https://img.shields.io/pypi/v/tabulate.svg)][pypi]
+![latest tag](https://img.shields.io/github/tag/packagecontrol/tabulate.svg) | [![pypi](https://img.shields.io/pypi/v/tabulate.svg)][pypi]
 
 
 ## How to use *tabulate* as a dependency
